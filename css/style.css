@@ -1,0 +1,10 @@
+.gifButtons {
+    margin: 5px;
+   padding: 9px;
+   color: white;
+   background-color: navy;
+   border-radius: 4px;
+   border:solid white 1px;
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+}
